@@ -67,4 +67,9 @@ _**[Espacio para agregar una imagen que muestre el flujo de vida de los datos]**
 
 ---
 
+** Equipo de trabajo:
+- Data Engineers: Evelyn Perez (https://github.com/eveper13) y D' Jesus Blanco (https://github.com/Djesus1987).
+- Data Analyst: Bruno Peretti (https://github.com/Brunomperetti).
+- MLOps: Gabriel Coria (https://github.com/funkydluffy) y  Alain Medel Mejía (https://github.com/PhDSchrodinger).
+
 Este proyecto tiene como objetivo aprovechar la tecnología de impresión 3D para optimizar procesos en el sector gastronómico, permitiendo a los restaurantes adaptarse a las nuevas demandas del mercado, mejorar la eficiencia operativa y reducir costos. ¡Síguenos para más actualizaciones!
