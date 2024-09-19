@@ -1,0 +1,12 @@
+# Enlaces para descargar y trabajar los archivos de forma local
+Metadata California.csv
+https://drive.google.com/file/d/1xwRPojNNSx0ZX-ET386NrGwxMGzTtuDm/view?usp=drive_link
+
+Reviews california.csv
+https://drive.google.com/file/d/10P_EP7yYNRkxlK-aXflV7HZfZcjIbin1/view?usp=drive_link
+
+Yelp Reviews california.csv
+https://drive.google.com/file/d/1yRlcdRAVurOkAHc3kdOWGWTVRy2pewhK/view?usp=drive_link
+
+business_ca.csv
+https://drive.google.com/file/d/1-CRV1Nkw5lMDgCWKe9vsTHem9_e0KY-X/view?usp=drive_link
