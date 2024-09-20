@@ -51,6 +51,57 @@ Utilizamos la metodología ágil **Scrum** para la gestión de este proyecto, or
 - **Reseñas Analizadas**: Más de 100,000.
 - **Patrones de Insatisfacción**: Al menos 25 identificados.
 - **Precisión de los Modelos Predictivos**: Superior al 85%.
+-  1. Identificar al menos un 10% de restaurantes como candidatos en cada evaluación trimestral.
+-      	N = Número de restaurantes candidatos
+	      NT = Número total de restaurante analizados (reseñas)
+        IOIM = Índice de Oportunidades de Implementación de Máquinas
+	      IOIM =100(N/N_T )
+- 2. Aumentar la calificación promedio de reseñas en al menos un 15%, en un año tras la implementación
+-       ASC =	Aumento en la Satisfacción del Cliente tras la Implementación
+   $\bar{x}_{DI} = \text{Calif promedio después de implementación}$
+
+   $\bar{x}_{AI} = \text{Calif promedio antes de implementación}$
+
+   La fórmula para calcular el **ASC** es:  
+    ASC = 100(XDI - XAI / XAI)
+
+    •	Temporalidad: Medición semestral o anual para observar cambios significativos.
+    •	Objetivo: Evaluar el impacto de las máquinas en la satisfacción del cliente.
+    •	Meta: Aumentar la calificación promedio de reseñas en al menos un 15% en un año tras la implementación.
+
+
+ - 3. Alcanzar una tasa de penetración del 5% en el primer año:
+        TPM = tasa  de penetración máquinas en el mercado restaurantero
+        N°  = número de máquinas vendidas en California
+	      NT = número total de restaurante en California
+  
+  $$
+TPM = 100 \left( \frac{N°}{NT} \right)
+$$
+
+
+	  •	Temporalidad: Evaluación mensual o trimestral para monitorear el progreso de ventas.
+	  •	Objetivo: Medir la adopción de las máquinas por parte de los restaurantes en California.
+	  •	Meta: Alcanzar una tasa de penetración del 5% en el primer año y un 15% en los próximos tres años.
+
+4. Alcanzar un ahorro de al menos un 20% en los costos logísticos dentro del primer año tras la impelmentación:
+   Medición de la reducción en los costos de envío de alimentos específicos gracias a la impresión local, calculando el ahorro promedio por restaurante tras la implementación de las máquinas.
+	Fórmula:
+  ACL = Alcanzar 
+	CA = costo logístico antes de implementación
+	CD = costo logístico despues de implementación
+	
+$$
+ACL = 100 \left( \frac{C_A - C_D}{C_A} \right)
+$$
+
+	 •	 Temporalidad: Medición semestral o anual para capturar la tendencia de ahorro en costos.
+	 •	 Objetivo: Cuantificar el impacto de la impresión local en la reducción de costos logísticos.    
+    •  Meta: Alcanzar un ahorro de al menos un 20% en los costos logísticos dentro del primer año tras la implementación.
+
+
+
+
 
 ## Tecnologías Utilizadas
 
