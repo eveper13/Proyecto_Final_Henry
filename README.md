@@ -51,33 +51,10 @@ Utilizamos la metodología ágil **Scrum** para la gestión de este proyecto, or
 - **Reseñas Analizadas**: Más de 100,000.
 - **Patrones de Insatisfacción**: Al menos 25 identificados.
 - **Precisión de los Modelos Predictivos**: Superior al 85%.
--  1. Identificar al menos un 10% de restaurantes como candidatos en cada evaluación trimestral.
--      	N = Número de restaurantes candidatos
-	      NT = Número total de restaurante analizados (reseñas)
-        IOIM = Índice de Oportunidades de Implementación de Máquinas
-	      IOIM =100(N/N_T )
-- 2. Aumentar la calificación promedio de reseñas en al menos un 15%, en un año tras la implementación
--       ASC =	Aumento en la Satisfacción del Cliente tras la Implementación
-   $\bar{x}_{DI} = \text{Calif promedio después de implementación}$
-
-   $\bar{x}_{AI} = \text{Calif promedio antes de implementación}$
-
-   La fórmula para calcular el **ASC** es:  
-    ASC = 100(XDI - XAI / XAI)
-
-    •	Temporalidad: Medición semestral o anual para observar cambios significativos.
-    •	Objetivo: Evaluar el impacto de las máquinas en la satisfacción del cliente.
-    •	Meta: Aumentar la calificación promedio de reseñas en al menos un 15% en un año tras la implementación.
-
-
- - 3. Alcanzar una tasa de penetración del 5% en el primer año:
-        TPM = tasa  de penetración máquinas en el mercado restaurantero
-        N°  = número de máquinas vendidas en California
-	      NT = número total de restaurante en California
-  
-  $$
-TPM = 100 \left( \frac{N°}{NT} \right)
-$$
+-  1. ROI
+	medirlo por año y ver un incremento en 1. El primer año obtenr el total de lo invertido hasta recuperarlo 5 veces.
+- 2. Aumentar la calificación promedio de reseñas en al menos un 0.01%, en un año tras la implementación hasta llegar a 0.08 de incremento
+ - 3. VAN
 
 
 	  •	Temporalidad: Evaluación mensual o trimestral para monitorear el progreso de ventas.
