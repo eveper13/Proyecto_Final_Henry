@@ -66,17 +66,14 @@ Entrenar el modelo de clasificación:
 pipeline.fit(X_train, y_train)
 
 Generar el mapa de calor:
-![Mapa de Calor](./images/mapa.png)
-
-python
-Copiar código
 m.save('heatmap.html')
+
 Visualizaciones
 Top 10 Ciudades con Más Reseñas Negativas:
-
+![Top](./images/top.png)
 
 Mapa de Calor de Reseñas Negativas:
-
+![Mapa](./images/mapa.png)
 
 Contribuciones
 Este proyecto fue desarrollado para analizar patrones en las reseñas de Yelp y crear herramientas de visualización y predicción útiles para comprender mejor el comportamiento de los clientes en diferentes ciudades y negocios.
