@@ -91,7 +91,8 @@ $$
 
 ## Flujo de Vida de los Datos
 
-_**[Espacio para agregar una imagen que muestre el flujo de vida de los datos]**_
+![Ciclo de Vida del Dato](C:/Users/evely/Documents/PROYECTO FINAL/ciclo)
+
 
 ---
 
