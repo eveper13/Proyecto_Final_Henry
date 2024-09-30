@@ -79,5 +79,7 @@ Contribuciones
 Este proyecto fue desarrollado para analizar patrones en las reseñas de Yelp y crear herramientas de visualización y predicción útiles para comprender mejor el comportamiento de los clientes en diferentes ciudades y negocios.
 
 Enlaces de los Proyectos en Streamlit
-Análisis de reviews Negativos: [Ver en Streamlit](https://modelo-reviews.streamlit.app) 
-Caso de Éxito: Análisis de Sentimientos del Restaurant con Impresiones de Comida en 3D: [Ver en Streamlit](https://brunomperetti-analisis-melisse-app-ha9pyo.streamlit.app/) 
+Análisis de reviews Negativos:
+ [Ver en Streamlit](https://modelo-reviews.streamlit.app) 
+Caso de Éxito: Análisis de Sentimientos del Restaurant con Impresiones de Comida en 3D:
+ [Ver en Streamlit](https://brunomperetti-analisis-melisse-app-ha9pyo.streamlit.app/) 
