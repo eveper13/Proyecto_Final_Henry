@@ -67,18 +67,19 @@ pipeline.fit(X_train, y_train)
 
 Generar el mapa de calor:
 m.save('heatmap.html')
+```
 
-Visualizaciones
+###Visualizaciones
 Top 10 Ciudades con Más Reseñas Negativas:
 ![Top](./images/top.png)
 
 Mapa de Calor de Reseñas Negativas:
 ![Mapa](./images/mapa.png)
 
-Contribuciones
+###Contribuciones
 Este proyecto fue desarrollado para analizar patrones en las reseñas de Yelp y crear herramientas de visualización y predicción útiles para comprender mejor el comportamiento de los clientes en diferentes ciudades y negocios.
 
-Enlaces de los Proyectos en Streamlit
+###Enlaces de los Proyectos en Streamlit
 Análisis de reviews Negativos:
  [Ver en Streamlit](https://modelo-reviews.streamlit.app) 
 Caso de Éxito: Análisis de Sentimientos del Restaurant con Impresiones de Comida en 3D:
