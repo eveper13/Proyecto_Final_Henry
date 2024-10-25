@@ -96,7 +96,7 @@ $$
 
 ---
 
-** Equipo de trabajo:
+## Equipo de trabajo:
 ![Ciclo de Vida del Dato](./images/grupo.jpeg)
 
 - Data Engineers: Evelyn Perez (https://github.com/eveper13) y D' Jesus Blanco (https://github.com/Djesus1987).
