@@ -97,6 +97,8 @@ $$
 ---
 
 ** Equipo de trabajo:
+![Ciclo de Vida del Dato](./images/grupo.jpeg)
+
 - Data Engineers: Evelyn Perez (https://github.com/eveper13) y D' Jesus Blanco (https://github.com/Djesus1987).
 - Data Analyst: Bruno Peretti (https://github.com/Brunomperetti).
 - MLOps: Gabriel Coria (https://github.com/funkydluffy) y  Alain Medel Mejía (https://github.com/PhDSchrodinger).
